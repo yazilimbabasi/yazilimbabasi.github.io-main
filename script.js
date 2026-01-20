@@ -80,3 +80,4 @@ document.addEventListener('DOMContentLoaded', () => {
     // Sayfa yüklendiğinde ilk fotoğrafı göster
     loadImage(currentIndex);
 });
+//995
